@@ -24,6 +24,17 @@ class Home extends StatelessWidget {
               height: 259,
             ),
           ),
+          Center(
+            child: Text(
+              "In Process....",
+              textAlign: TextAlign.center,
+              style: TextStyle(
+                fontSize: 30,
+                fontWeight: FontWeight.bold,
+                color: Colors.black,
+              ),
+            ),
+          ),
         ],
       ),
     );
