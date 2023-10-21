@@ -1,4 +1,4 @@
-# pillmate
+# junior_project
 
 A new Flutter project.
 
